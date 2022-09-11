@@ -1,10 +1,10 @@
-package Java;
+package gitLearn;
 
-public class sum {
+public class Sample {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println(10+5);
+System.out.println("Hello Anmol");
 	}
 
 }
