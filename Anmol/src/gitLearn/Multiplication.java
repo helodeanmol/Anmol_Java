@@ -8,6 +8,7 @@ public class Multiplication {
 		a = 10;
 		b = 23;
 		System.out.println(b-a);
+
 	}
 
 }
